@@ -1,0 +1,45 @@
+/* UNIVERSAL SELECTORS */
+/*  {
+    color: red;
+}
+
+/* TYPE SELECTORS */
+/* h1 {
+    color: red;
+}*/
+
+/*Multiple*/
+/*h1,span{
+    color: red;
+}*/
+
+/*Class Selectors*/
+/*.interest{
+    color: red;
+}*/
+/* ID Selector */
+/*#my-span{
+    color: red;
+}*/
+
+/*CHILD Selector*/
+/*span >p{
+    color: red;
+}
+div >h2{
+    color: blue;
+}*/
+/* DESENDENT selector*/
+/*div p{
+    color: red;
+}*/
+
+/*ADJACENT Sibling Selector*/
+/*h1+p{
+    color: red;
+}*/
+
+/*General Sibling Selector*/
+h1~p{
+    color: red;
+}
